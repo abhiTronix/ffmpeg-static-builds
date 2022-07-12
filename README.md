@@ -3,6 +3,7 @@
 **This repository keeps temporary backup of few FFmpeg static binaries(grouped by date) from:**
 
 * https://johnvansickle.com/ffmpeg/ (_Licensed GNU General Public License version 3_)
+* https://web.archive.org/web/20200919011114mp_/https://ffmpeg.zeranoe.com (_Licensed GNU General Public License version 3_)
 
 **required by various projects for performing CI Tests, that are otherwise prone to failure if any of these sites goes down.**
 
