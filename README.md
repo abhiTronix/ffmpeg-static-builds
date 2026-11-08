@@ -1,10 +1,5 @@
 # Backup FFmpeg static binaries for CI Tests
 
-**This repository keeps temporary backup of few FFmpeg static binaries(grouped by date) from:**
-
-* https://johnvansickle.com/ffmpeg/ (_Licensed GNU General Public License version 3_)
-* https://web.archive.org/web/20200919011114mp_/https://ffmpeg.zeranoe.com (_Licensed GNU General Public License version 3_)
-
-**required by various projects for performing CI Tests, that are otherwise prone to failure if any of these sites goes down.**
+**This repository maintains temporary backups of selected FFmpeg static binaries (organized by date) sourced from various providers. These backups ensure continuous integration (CI) tests remain reliable even if upstream download mirrors experience downtime.**
 
 _All credits and ownership belongs to their rightful owners._
